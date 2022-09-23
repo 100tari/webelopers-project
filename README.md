@@ -1,2 +1,2 @@
 # webelopers-project
-The project of "Future programmers" group in webelopers event!
+The project of "Loading" group in webelopers event!
